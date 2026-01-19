@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">AplicaciónDesarrollo2</string>
+    <string name="greetings">Hello</string>
+
+    <string-array name="historic_event_names">
+        <item>Invención de la escritura</item>
+        <item>Construcción de las pirámides de Giza</item>
+        <item>Democracia ateniense</item>
+        <item>Asesinato de Julio César</item>
+        <item>Edicto de Milán</item>
+        <item>Caída del Imperio Romano de Occidente</item>
+        <item>Coronación de Otón I</item>
+        <item>Primera Cruzada</item>
+        <item>Firma de la Carta Magna</item>
+        <item>Peste Negra en Europa</item>
+        <item>Invención de la imprenta</item>
+        <item>Reforma protestante</item>
+        <item>Derrota de la Armada Invencible</item>
+        <item>Fundación de Jamestown</item>
+        <item>Declaración de Independencia de EE. UU.</item>
+        <item>Invención de la máquina de vapor</item>
+        <item>Unificación de Italia</item>
+        <item>Unificación de Alemania</item>
+        <item>Descubrimiento de la penicilina</item>
+        <item>Creación de la ONU</item>
+        <item>Llegada del hombre a la Luna</item>
+        <item>Caída del Muro de Berlín</item>
+    </string-array>
+
+    <string-array name="historic_event_dates">
+        <item>3200 a.C.</item>
+        <item>2570 a.C.</item>
+        <item>508 a.C.</item>
+        <item>44 a.C.</item>
+        <item>313</item>
+        <item>476</item>
+        <item>962</item>
+        <item>1096</item>
+        <item>1215</item>
+        <item>1347</item>
+        <item>1450</item>
+        <item>1517</item>
+        <item>1588</item>
+        <item>1607</item>
+        <item>1776</item>
+        <item>1769</item>
+        <item>1861</item>
+        <item>1871</item>
+        <item>1928</item>
+        <item>1945</item>
+        <item>1969</item>
+        <item>1989</item>
+    </string-array>
+
+    <string-array name="historic_event_locations">
+        <item>Mesopotamia</item>
+        <item>Giza, Egipto</item>
+        <item>Atenas, Grecia</item>
+        <item>Roma, Italia</item>
+        <item>Imperio Romano</item>
+        <item>Roma, Italia</item>
+        <item>Aquisgrán, Alemania</item>
+        <item>Europa y Oriente Próximo</item>
+        <item>Inglaterra</item>
+        <item>Europa</item>
+        <item>Maguncia, Alemania</item>
+        <item>Wittenberg, Alemania</item>
+        <item>Canal de la Mancha</item>
+        <item>Virginia, América del Norte</item>
+        <item>Filadelfia, Estados Unidos</item>
+        <item>Reino Unido</item>
+        <item>Italia</item>
+        <item>Alemania</item>
+        <item>Londres, Reino Unido</item>
+        <item>Nueva York, Estados Unidos</item>
+        <item>Luna</item>
+        <item>Berlín, Alemania</item>
+    </string-array>
+</resources>
