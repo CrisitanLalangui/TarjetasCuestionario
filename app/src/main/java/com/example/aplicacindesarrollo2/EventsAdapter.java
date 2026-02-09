@@ -102,7 +102,7 @@ public class AdaptadorDeEvntosRV extends RecyclerView.Adapter<AdaptadorDeEvntosR
                                     Toast.makeText(itemView.getContext(), "La respuesta no puede estar vacía", Toast.LENGTH_SHORT).show();
 
                                 } else if (!respuesta.equals(events.get(getAdapterPosition()).getEventDate())){
-                                    card.setCardBackgroundColor(card.getResources().getColor(R.color.cafeOscuro));
+                                    card.setCardBackgroundColor(card.getResources().getColor(R.color.rojoClaro));
                                     Toast.makeText(itemView.getContext(), "La respuesta es incorrecta", Toast.LENGTH_SHORT).show();
 
                                 } else {
